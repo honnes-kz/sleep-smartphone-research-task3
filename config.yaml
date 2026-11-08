@@ -1,0 +1,8 @@
+# Task 3: analysis of published aggregate statistics
+seed: 42
+primary_dataset: data/raw/published_app_usage.csv
+phone_effects: data/raw/published_phone_effects.csv
+app_effects: data/raw/published_app_effects.csv
+descriptives: data/raw/published_descriptives.csv
+output_dir: data/processed
+figure_dir: reports/figures
