@@ -1,0 +1,10 @@
+app_category,timeframe,mean_minutes,sd_minutes
+Social media,Daytime,146,129
+Social media,Pre-bedtime,11,14
+Social media,Post-bedtime,12,27
+Game apps,Daytime,62,86
+Game apps,Pre-bedtime,3,9
+Game apps,Post-bedtime,4,20
+Video player,Daytime,128,122
+Video player,Pre-bedtime,11,17
+Video player,Post-bedtime,14,35

@@ -1,0 +1,31 @@
+{
+  "project": "Task 3 - published statistical evidence on smartphone use and sleep quality",
+  "primary_source": {
+    "citation": "Siebers, T., Beyens, I., Baumgartner, S. E., & Valkenburg, P. M. (2024). Adolescents’ Digital Nightlife: The Comparative Effects of Day- and Nighttime Smartphone Use on Sleep Quality. Communication Research.",
+    "doi": "10.1177/00936502241276793",
+    "dataset_doi": "10.21942/uva.26395903.v2",
+    "sample_n": 155,
+    "observations_sleep_quality": 1950,
+    "tracked_app_activities": 745706,
+    "collection_days": 21,
+    "age_mean": 14.5,
+    "age_sd": 0.7,
+    "country": "Netherlands"
+  },
+  "data_method": "Published aggregate statistics transcribed from article Tables 1-4. These are not participant-level records.",
+  "secondary_source": {
+    "name": "MMASH - Multilevel Monitoring of Activity and Sleep in Healthy People",
+    "citation": "Rossi et al. (2020), Data, 5(4), 91.",
+    "doi": "10.13026/cerq-fc86",
+    "url": "https://physionet.org/content/mmash/1.0.0/",
+    "sample_n": 22,
+    "description": "Separate physiological dataset containing TST, WASO, awakenings, PSQI, activity and stress measures. Not merged into primary analysis."
+  },
+  "limitations": [
+    "Primary study participants are adolescents aged 13-16, not university students.",
+    "Primary study uses a 1-7 daily sleep diary item, not full PSQI.",
+    "Primary study does not report SOL, TST, WASO, REM or Deep NREM in the tables used here.",
+    "MMASH has no smartphone gaming/social media exposure variables comparable to the primary study; datasets must not be joined as if they contain the same people.",
+    "The paper reports Bayesian estimates and credible intervals; this repository preserves those rather than calculating bootstrap intervals from aggregate data."
+  ]
+}

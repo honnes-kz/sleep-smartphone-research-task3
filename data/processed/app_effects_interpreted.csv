@@ -1,0 +1,10 @@
+app_category,timeframe,within_person_beta,bayesian_p,ci95_low,ci95_high,negative_association,paper_significance_p_lt_05
+Social media,Daytime,0.0,0.464,-0.059,0.062,False,False
+Game apps,Daytime,-0.02,0.359,-0.134,0.093,True,False
+Video player,Daytime,-0.06,0.075,-0.111,0.014,True,False
+Social media,Pre-bedtime,-0.09,0.001,-0.144,-0.026,True,True
+Game apps,Pre-bedtime,-0.09,0.05,-0.172,0.015,True,False
+Video player,Pre-bedtime,0.05,0.07,-0.017,0.1,False,False
+Social media,Post-bedtime,-0.05,0.113,-0.153,0.033,True,False
+Game apps,Post-bedtime,-0.16,0.024,-0.329,-0.001,True,True
+Video player,Post-bedtime,-0.01,0.451,-0.119,0.079,True,False
