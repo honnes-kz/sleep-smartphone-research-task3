@@ -114,3 +114,10 @@ Dataset: https://physionet.org/content/mmash/1.0.0/
 - Dataset: University of Amsterdam DARE, https://doi.org/10.21942/uva.26395903.v2
 - Rossi, A., et al. (2020). *A Public Dataset of 24-h Multi-Levels Psycho-Physiological Responses in Young Healthy Adults*. Data, 5(4), 91. https://doi.org/10.3390/data5040091
 - MMASH on PhysioNet: https://doi.org/10.13026/cerq-fc86
+
+## Authors
+
+This research project was developed by:
+
+- **Alikhan Nurmetov**
+- **Tanirbergen Bekzhan**
